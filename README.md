@@ -1,8 +1,6 @@
 # React People Table
 
-> Here is [the working example](https://mate-academy.github.io/react_people-table-basics/)
-
-Implement the `App` with 2 pages and ability to select a person in the table.
+Implemented the `App` with 2 pages and ability to select a person in the table.
 
 1. Create the `HomePage` available at `/` with just a title `Home Page`
 1. Create the `PeoplePage` available at `/people` with a title `People Page`
@@ -20,9 +18,6 @@ Implement the `App` with 2 pages and ability to select a person in the table.
     - if the motherName or fatherName is empty put `-` to the table
 1. Highlight the row of the selected person with the `has-background-warning` class;
 
-## Instructions
-- Install Prettier Extention and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
-- Implement a solution following the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline).
-- Use the [React TypeScript cheat sheet](https://mate-academy.github.io/fe-program/js/extra/react-typescript).
-- Open one more terminal and run tests with `npm test` to ensure your solution is correct.
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://<your_account>.github.io/react_people-table-basics/) and add it to the PR description.
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/react_people-table-basics/)
