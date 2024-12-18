@@ -1,4 +1,4 @@
-# People Table
+# People Table (Basics)
 
 ### Description
 
