@@ -1,29 +1,32 @@
 # People Table (Basics)
 
-### Description
+## 🎮 About the Project
+This project implements a table displaying a list of people, where the user can select a person. The table is populated with data fetched from an external API, and routing allows easy navigation between pages.
 
-- Implemented the `App` with 2 pages and ability to select a person in the table using external API
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (Bulma for styling)
+- **JavaScript** (Dynamic functionality)
+- **Typescript** (Type-safe code)
+- **React** (Component-based architecture)
+- **ReactDOM** (Efficient rendering)
+- **React Router** (Routing for page navigation)
+- **Fetch** (For external API requests)
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Babel** – JavaScript compiler for modern syntax  
 
-- HTML (BEM)
-- CSS (Bulma)
-- JS
-- Typescript
-- React
-- ReactDOM
-- React Router
-- Fetch
-- API ([Mate](https://mate-academy.github.io/react_people-table/api/people.json))
+## 📌 Features
+✅ Implemented a table displaying people with selection functionality  
+✅ Integrated external API for data fetching  
+✅ Added client-side routing for smooth navigation between pages
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/people-table-basics/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Babel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/people-table-basics/)
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/react_people-table-basics)
